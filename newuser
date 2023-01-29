@@ -24,3 +24,16 @@ Admin Panel : ON
 Exp         : 2023-05-02 
 IPVPS       : 34.101.44.29 
 Reg Date    : 2023-01-28
+
+
+Name        : id-vip 
+Admin Panel : OFF
+Exp         : 2080-05-02 
+IPVPS       : 34.101.48.81 
+Reg Date    : 2023-01-28
+
+Name        : sg-vip 
+Admin Panel : OFF
+Exp         : 2080-05-02 
+IPVPS       : 34.101.48.81 
+Reg Date    : 2023-01-28
