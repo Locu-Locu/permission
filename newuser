@@ -26,10 +26,10 @@ IPVPS       : 34.101.44.29
 Reg Date    : 2023-01-28
 
 
-Name        : id-vip 
+Name        : ssh-id 
 Admin Panel : OFF
 Exp         : 2080-05-02 
-IPVPS       : 103.52.114.25
+IPVPS       : 34.101.105.32
 Reg Date    : 2023-02-08
 
 Name        : sg-vip 
