@@ -1,33 +1,6 @@
 
-Name        : dig 
-Admin Panel : ON
-Exp         : 2023-02-26 
-IPVPS       : 103.49.239.95 
-Reg Date    : 2023-01-27
-
-
-Name        : gcloud 
-Admin Panel : ON
-Exp         : 2025-10-23 
-IPVPS       : 35.187.233.120 
-Reg Date    : 2023-01-28
-
-
-Name        : IDC 
-Admin Panel : ON
-Exp         : 2023-05-02 
-IPVPS       : 103.63.25.25 
-Reg Date    : 2023-01-28
-
-Name        : gcc 
-Admin Panel : ON
-Exp         : 2023-05-02 
-IPVPS       : 34.101.44.29 
-Reg Date    : 2023-01-28
-
-
 Name        : ssh-id 
-Admin Panel : OFF
+Admin Panel : ON
 Exp         : 2080-05-02 
 IPVPS       : 34.101.227.236
 Reg Date    : 2023-02-08
@@ -44,22 +17,11 @@ Exp         : 2080-05-02
 IPVPS       : 35.240.216.248 
 Reg Date    : 2023-01-30
 
-Name        : promo-id 
-Admin Panel : OFF
-Exp         : 2080-05-02 
-IPVPS       : 34.101.227.236
-Reg Date    : 2023-02-02
 
 Name        : promo-sg 
 Admin Panel : OFF
 Exp         : 2080-05-02 
 IPVPS       : 34.143.198.12
-Reg Date    : 2023-02-02
-
-Name        : promo-sg1 
-Admin Panel : OFF
-Exp         : 2080-05-02 
-IPVPS       : 34.142.200.211
 Reg Date    : 2023-02-02
 
 Name        : Fathel 
